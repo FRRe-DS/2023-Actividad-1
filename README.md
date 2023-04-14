@@ -46,4 +46,4 @@ Acerca de fork y pull request ver enlace http://aprendegit.com/que-es-un-pull-re
 cambio
 
 
-cambio hecho en clase
+cambio para la clase de practica
