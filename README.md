@@ -37,6 +37,7 @@ Acerca de fork y pull request ver enlace http://aprendegit.com/que-es-un-pull-re
 - d) Clonar el repositorio de github remoto a un nuevo directorio en la maquina local (git clone)  
 - e) Realizar un cambio en el repositorio anteriormente clonado y realizar un commit y subir el cambio al repositorio remoto (comandos commit y push, siempre es recomendable cuando se trabaja en equipo realiza un fetch para verificar si se produjeron cambios en el repositorio remoto, luego dichos cambios se traen al repo local con el comando pull) 
 ## Actividad 2 Branching, pull request y fork 
+
 - Explicar conceptos de sincronizacion de repositorios
 - a) Crear una rama nueva rama realizar un cambio y subir la nueva rama al servidor remoto (git branch, checkout rama).  
 - b) Mergear cambios es decir llevar los cambios de la rama creada a la rama base. Una vez que se hizo commits en los cambios de la rama nos cambiamos de rama (checkout branch_name) y allí podemos traer los cambios de la rama modificada a la rama base (git merge rama_modificada)   
@@ -46,7 +47,7 @@ Acerca de fork y pull request ver enlace http://aprendegit.com/que-es-un-pull-re
 
 cambio test
 
-
+otro cambio
 
 cambio para la clase de practica
 
