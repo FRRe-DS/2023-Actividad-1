@@ -44,7 +44,7 @@ Acerca de fork y pull request ver enlace http://aprendegit.com/que-es-un-pull-re
 - f) Tomando como base el repo XXXXXX(por ejemplo un repo de compañero) realizar un fork (esto en github que es llevar la copia de un repositorio de un tercero al propio realizar cambios y luego contribuir con ese repositorio realizando un pull request (ver link http://aprendegit.com/que-es-un-pull-request/) este pull request necesita de la autorización de quien tiene permisos para realizar cambios en ese repositorio. Una vez realizado el fork, clonamos el repo a nuestra maquina local realizamos cambios, subimos los cambios a github y una vez ahi probamos realizar el pull request  
 - Hacer un cherry pick de otro commit
 
-cambio
+cambio conflicto
 
 
 cambio para la clase de practica
